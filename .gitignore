@@ -5,6 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
+CompleteDataset.csv
+player progression table.csv
+PlayerPersonalData.csv
+.DS_Store
 
 # Distribution / packaging
 .Python
